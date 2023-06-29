@@ -1,0 +1,16 @@
+{
+	"name": "js-lanjutan-final-project-student-portal",
+	"course": "Programming Fundamentals with Javascript",
+	"title": "Final Project - Student Portal (Lanjutan)",
+	"order": 999,
+	"topics": [
+		"nodejs",
+		"Rest API"
+	],
+	"image": "nodejs-basic",
+	"command": "npm run test",
+	"totalTestCase": 5,
+	"metadata": {
+		"type": "final-project"
+	}
+}

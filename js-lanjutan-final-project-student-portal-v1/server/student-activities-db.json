@@ -1,0 +1,121 @@
+{
+  "students": [
+    {
+      "name": "Djarot Purnomo",
+      "activities": [
+        {
+          "name": "Mahitala",
+          "desc": "Mahasiswa Pecinta Alam"
+        },
+        {
+          "name": "Korgala",
+          "desc": "Korps Tenaga Sukarela"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "name": "Mahitala",
+      "desc": "Mahasiswa Pecinta Alam",
+      "days": [
+        "Sunday"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Listra",
+      "desc": "Seni Tari Tradisional",
+      "days": [
+        "Wednesday",
+        "Friday"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Satre",
+      "desc": "Seni Teater",
+      "days": [
+        "Monday",
+        "Thursday"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "PEDS",
+      "desc": "English Debate Society",
+      "days": [
+        "Monday"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Korgala",
+      "desc": "Korps Tenaga Sukarela",
+      "days": [
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "PSM",
+      "desc": "Paduan Suara Mahasiswa",
+      "days": [
+        "Wednesday",
+        "Friday"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Softball",
+      "desc": "Softball",
+      "days": [
+        "Tuesday"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Futsal",
+      "desc": "Futsal",
+      "days": [
+        "Saturday"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Basket",
+      "desc": "Basket",
+      "days": [
+        "Thursday"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Tenis",
+      "desc": "Tenis",
+      "days": [
+        "Saturday"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Capoeira",
+      "desc": "Capoeira",
+      "days": [
+        "Tuesday",
+        "Thursday"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Air Soft Gun",
+      "desc": "Air Soft Gun",
+      "days": [
+        "Tuesday"
+      ]
+    }
+  ]
+}
